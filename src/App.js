@@ -29,7 +29,8 @@ function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
-
+			<h1>SuperChat</h1>
+        	<SignOut />
 			</header>
 
 			<section>
